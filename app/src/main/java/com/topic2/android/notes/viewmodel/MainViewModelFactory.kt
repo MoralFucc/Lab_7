@@ -6,6 +6,7 @@ import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.savedstate.SavedStateRegistryOwner
 import com.topic2.android.notes.data.repository.Repository
+import screens.MainViewModel
 
 @Suppress("UNCHECKED_CAST")
 class MainViewModelFactory(
